@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="3sc-DR-LAI">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="3sc-DR-LAI">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
@@ -21,7 +21,7 @@
                                 <rect key="frame" x="0.0" y="62" width="600" height="538"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XSz-w0-6Cf">
-                                        <rect key="frame" x="273" y="62" width="46" height="30"/>
+                                        <rect key="frame" x="273" y="138" width="46" height="30"/>
                                         <constraints>
                                             <constraint firstAttribute="width" constant="46" id="pOC-1Z-fra"/>
                                         </constraints>
@@ -46,7 +46,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="s3o-7w-zVI">
-                                        <rect key="frame" x="273" y="337" width="46" height="30"/>
+                                        <rect key="frame" x="277" y="280" width="46" height="30"/>
                                         <state key="normal" title="View">
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
@@ -58,12 +58,12 @@
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstItem="XSz-w0-6Cf" firstAttribute="leading" secondItem="dfC-Jc-a27" secondAttribute="leading" id="6nH-us-ZdC"/>
-                                    <constraint firstItem="s3o-7w-zVI" firstAttribute="leading" secondItem="dfC-Jc-a27" secondAttribute="leading" id="CV4-lU-YEE"/>
-                                    <constraint firstItem="XSz-w0-6Cf" firstAttribute="top" secondItem="RGE-q0-wLS" secondAttribute="top" constant="62" id="QX5-Rb-FzX"/>
+                                    <constraint firstItem="s3o-7w-zVI" firstAttribute="leading" secondItem="dfC-Jc-a27" secondAttribute="leading" constant="4" id="CV4-lU-YEE"/>
+                                    <constraint firstItem="XSz-w0-6Cf" firstAttribute="top" secondItem="RGE-q0-wLS" secondAttribute="top" constant="138" id="QX5-Rb-FzX"/>
                                     <constraint firstItem="dfC-Jc-a27" firstAttribute="centerX" secondItem="RGE-q0-wLS" secondAttribute="centerX" id="TrE-4Z-GEt"/>
-                                    <constraint firstItem="s3o-7w-zVI" firstAttribute="trailing" secondItem="XSz-w0-6Cf" secondAttribute="trailing" id="VWU-79-vrS"/>
+                                    <constraint firstItem="s3o-7w-zVI" firstAttribute="trailing" secondItem="XSz-w0-6Cf" secondAttribute="trailing" constant="4" id="VWU-79-vrS"/>
                                     <constraint firstItem="dfC-Jc-a27" firstAttribute="top" secondItem="RGE-q0-wLS" secondAttribute="top" constant="206" id="VfK-G5-PTi"/>
-                                    <constraint firstAttribute="bottom" secondItem="s3o-7w-zVI" secondAttribute="bottom" constant="171" id="u00-Fx-Bu6"/>
+                                    <constraint firstAttribute="bottom" secondItem="s3o-7w-zVI" secondAttribute="bottom" constant="228" id="u00-Fx-Bu6"/>
                                 </constraints>
                             </view>
                         </subviews>
