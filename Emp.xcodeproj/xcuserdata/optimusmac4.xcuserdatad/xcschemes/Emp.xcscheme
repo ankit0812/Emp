@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DBC111301B5FA4C00099DC92"
+               BlueprintIdentifier = "9312D6731B6241C3000180DE"
                BuildableName = "Emp.app"
                BlueprintName = "Emp"
                ReferencedContainer = "container:Emp.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DBC111491B5FA4C00099DC92"
+               BlueprintIdentifier = "9312D68C1B6241C3000180DE"
                BuildableName = "EmpTests.xctest"
                BlueprintName = "EmpTests"
                ReferencedContainer = "container:Emp.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DBC111491B5FA4C00099DC92"
+               BlueprintIdentifier = "9312D68C1B6241C3000180DE"
                BuildableName = "EmpTests.xctest"
                BlueprintName = "EmpTests"
                ReferencedContainer = "container:Emp.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DBC111301B5FA4C00099DC92"
+            BlueprintIdentifier = "9312D6731B6241C3000180DE"
             BuildableName = "Emp.app"
             BlueprintName = "Emp"
             ReferencedContainer = "container:Emp.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DBC111301B5FA4C00099DC92"
+            BlueprintIdentifier = "9312D6731B6241C3000180DE"
             BuildableName = "Emp.app"
             BlueprintName = "Emp"
             ReferencedContainer = "container:Emp.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DBC111301B5FA4C00099DC92"
+            BlueprintIdentifier = "9312D6731B6241C3000180DE"
             BuildableName = "Emp.app"
             BlueprintName = "Emp"
             ReferencedContainer = "container:Emp.xcodeproj">

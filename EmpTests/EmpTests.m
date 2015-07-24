@@ -2,8 +2,8 @@
 //  EmpTests.m
 //  EmpTests
 //
-//  Created by optimusmac-12 on 22/07/15.
-//  Copyright (c) 2015 mdtaha.optimus. All rights reserved.
+//  Created by optimusmac4 on 7/24/15.
+//  Copyright (c) 2015 optimusmac4. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
